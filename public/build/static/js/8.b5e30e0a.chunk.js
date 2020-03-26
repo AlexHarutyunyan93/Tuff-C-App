@@ -1,0 +1,2 @@
+(this.webpackJsonpeca=this.webpackJsonpeca||[]).push([[8],{144:function(e,n,a){"use strict";a.r(n),a.d(n,"default",(function(){return l}));var t=a(0),r=a.n(t);function l(){return r.a.createElement("div",{className:"qari-tesakneri-masin-4"},r.a.createElement("h1",null,"THE COMPANY IS SUPPLEMENTED MORE ",r.a.createElement("br",null),"THAN 50",r.a.createElement("br",null),"WITH RUSSIAN AND FOREIGN PRODUCTION ",r.a.createElement("br",null),"TRUCKS"))}}}]);
+//# sourceMappingURL=8.b5e30e0a.chunk.js.map

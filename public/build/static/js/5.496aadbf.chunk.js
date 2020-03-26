@@ -1,0 +1,2 @@
+(this.webpackJsonpeca=this.webpackJsonpeca||[]).push([[5],{138:function(e,n,t){},142:function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return i}));var a=t(0),c=t.n(a);t(138);function i(e){var n=e.title,t=e.description,a=e.language;return c.a.createElement("div",{className:"home-info-2"},c.a.createElement("h1",null,n[a]),c.a.createElement("p",null,t[a]))}}}]);
+//# sourceMappingURL=5.496aadbf.chunk.js.map
