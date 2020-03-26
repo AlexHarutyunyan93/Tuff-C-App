@@ -6,8 +6,5 @@ module.exports = {
 };
 
 async function getCategory(reference) {
-    console.log(reference);
-    const category = await Category.findOne({categoryreference: reference});
-    console.log(category);
-    return category;
+    return await Category.findOne({categoryreference: reference});
 }
