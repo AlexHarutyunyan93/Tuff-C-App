@@ -1,4 +1,4 @@
 {
-  "connectionString": "mongodb://localhost/tuff",
+  "connectionString": "mongodb://root:123456@78.46.184.51:27017/tuff?authSource=admin&readPreference=primary&appname=MongoDB%20Compass%20Community&ssl=false",
   "secret": "THIS IS USED TO SIGN AND VERIFY JWT TOKENS, REPLACE IT WITH YOUR OWN SECRET, IT CAN BE ANY STRING"
 }

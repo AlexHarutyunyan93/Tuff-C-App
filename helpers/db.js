@@ -1,7 +1,10 @@
 const config = require('../config.json');
 const mongoose = require('mongoose');
 
-mongoose.connect(process.env.MONGODB_URI || config.connectionString, { useCreateIndex: true, useNewUrlParser: true, useUnifiedTopology: true });
+const options = { useCreateIndex: true, useNewUrlParser: true, useUnifiedTopology: true };
+const connectionString = process.env.MONGODB_URI || config.connectionString;
+
+mongoose.connect(connectionString, options);
 mongoose.Promise = global.Promise;
 
 module.exports = {

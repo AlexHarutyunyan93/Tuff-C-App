@@ -9,7 +9,6 @@ module.exports = router;
 
 function getCategory(req, res, next){
     const reference = req.query.reference;
-
     specialCategoryService.getCategory(reference)
         .then(data => res.send(data))
         .catch(err => next(err));
