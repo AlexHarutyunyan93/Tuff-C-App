@@ -1,0 +1,2 @@
+(this.webpackJsonpeca=this.webpackJsonpeca||[]).push([[7],{145:function(e,t,a){"use strict";a.r(t),a.d(t,"default",(function(){return c}));var n=a(0),r=a.n(n);function c(e){var t=e.title,a=e.items,n=e.language;return r.a.createElement("div",{className:"arac-gorcer-slider-5"},r.a.createElement("h1",null,t[n]),r.a.createElement("ul",null,a[n].map((function(e,t){return r.a.createElement("li",{key:t},e)}))))}}}]);
+//# sourceMappingURL=7.0734e846.chunk.js.map

@@ -1,0 +1,2 @@
+(this.webpackJsonpeca=this.webpackJsonpeca||[]).push([[8],{144:function(e,a,n){"use strict";n.r(a),n.d(a,"default",(function(){return i}));var t=n(0),r=n.n(t);function i(e){var a=e.dividedTitle,n=e.language;return r.a.createElement("div",{className:"qari-tesakneri-masin-4"},r.a.createElement("h1",null,a[n].map((function(e,a){return r.a.createElement("p",{key:a},e)}))))}}}]);
+//# sourceMappingURL=8.c8314688.chunk.js.map
